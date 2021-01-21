@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MVVM Coroutines DataBinding RecyclerView Navigation Retrofit</string>
+    <string name="image_movies" />
+</resources>
